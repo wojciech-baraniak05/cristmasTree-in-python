@@ -1,1 +1,3 @@
-![Christmas Tree Animation](choinka.gif)
+cristmas tree generated from mathematical functions
+
+![GIF choinka](choinka.gif)
