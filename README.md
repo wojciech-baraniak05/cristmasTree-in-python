@@ -1,1 +1,1 @@
-# cristmasTree-in-python
+![Christmas Tree Animation](choinka.gif)
